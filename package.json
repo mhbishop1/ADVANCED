@@ -1,0 +1,13 @@
+{
+    "name": "group-orchestrator",
+    "version": "1.0.0",
+    "type": "module",
+    "dependencies": {
+        "apify": "^3.0.0",
+        "apify-client": "^2.7.0",
+        "sentiment": "^5.0.2"
+    },
+    "scripts": {
+        "start": "node src/main.js"
+    }
+}
